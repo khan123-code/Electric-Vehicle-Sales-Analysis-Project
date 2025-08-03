@@ -4,18 +4,6 @@ This project presents an end-to-end exploratory data analysis (EDA) of **Electri
 
 ---
 
-## 📌 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Problem Statements](#problem-statements)
-- [Technologies Used](#technologies-used)
-- [Key Insights](#key-insights)
-- [Visualizations](#visualizations)
-- [Conclusion](#conclusion)
-- [Author](#author)
-
----
-
 ## 📊 Project Overview
 
 With India’s push towards clean energy and sustainable transport, electric vehicles are gaining popularity. This project analyzes state-wise EV sales data to uncover:
@@ -74,7 +62,7 @@ This analysis offers a clear view of how electric vehicles are being adopted acr
 
 **Mohamed Atiur Rahman**  
 Aspiring Data Analyst  
-🔗 [LinkedIn](https://www.linkedin.com/) (Add your link)  
+🔗 [LinkedIn](https://www.linkedin.com/) (www.linkedin.com/in/mohammad-atiur-rahman-khan-33ab5b2b7)  
 📧 atiurrazakhan@gmail.com
 
 ---
